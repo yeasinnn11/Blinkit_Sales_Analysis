@@ -4,7 +4,7 @@
 ## Company Introduction
 **Blinkit** is India's last-minute grocery and convenience app, delivering essential products to customers quickly and efficiently. Blinkit focuses on providing a seamless shopping experience across various product categories, such as fruits, snacks, household items, frozen foods, and more.
 
-## Dashboard Overview
+## [Dashboard Overview](https://1drv.ms/x/s!Ak0-JOmIIVIAgltBw5ksUjowEZB5?e=0oY7wG)
 This analysis is based on Blinkit's sales performance dashboard. The dashboard provides critical insights into:
 
 1. **Total Sales, Average Sales, and Ratings**
