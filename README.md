@@ -70,7 +70,7 @@ Low-performing categories: Seafood ($9.1k) and Breakfast ($15.6k).
 
 Recommendation: Focus on expanding top-performing categories, such as fruits and snacks, and reassess inventory for underperforming categories.
 
-5. Consumer Purchasing Behavior
+5. Consumer Purchasing Behavior: 
 Regular fat content products account for 65% of total sales, while low-fat options make up 35% of the total.
 
 ![p5](https://github.com/user-attachments/assets/31235149-a899-49f4-90e6-0f2962a3e301)
