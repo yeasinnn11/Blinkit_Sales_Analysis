@@ -36,6 +36,7 @@ The key business objectives are:
 Sales distribution shows significant variation across cities:
 
 Tier 3 Cities show the highest sales contribution at $472.1k, followed by Tier 2 Cities at $393.2k, and Tier 1 Cities at $336.4k. Despite infrastructural challenges, Tier 3 cities show strong consumer demand.
+
 ![p1](https://github.com/user-attachments/assets/6eb4358d-193d-4d06-9158-58e26d30602a)
 
 Recommendation: Focus on expanding Blinkit's footprint in Tier 3 cities by enhancing delivery networks and tailoring marketing efforts.
@@ -45,12 +46,14 @@ Sales are largely driven by outlet size:
 
 - Large Outlets generate $507.9k in sales (42% of total sales).
 - Medium-Sized Outlets contribute $249.0k, while Small Outlets contribute $444.8k.
+
 ![p2](https://github.com/user-attachments/assets/cfc4ecbe-55ae-4b1f-9345-9fae43ba596b)
 
 Recommendation: Allocate higher-value products to large outlets and optimize operations in medium and small outlets to boost profitability.
 
 3. Outlet Location and Establishment Trends
 Sales peaked in 2018 at $204.5k, and have since declined, stabilizing around $131.5k in 2022.
+
 ![p3](https://github.com/user-attachments/assets/9a3ae078-f1ab-473b-b427-b7732186652f)
 
 Recommendation: Invest in marketing campaigns, seasonal promotions, and targeted outreach to reignite interest and consumer engagement in underperforming regions.
@@ -62,12 +65,14 @@ Top-selling product categories include:
 - Snack Foods: $175.4k
 - Household Items: $136.0k
 Low-performing categories: Seafood ($9.1k) and Breakfast ($15.6k).
+
 ![p4](https://github.com/user-attachments/assets/49d47390-5004-436e-948a-f4710155ae03)
 
 Recommendation: Focus on expanding top-performing categories, such as fruits and snacks, and reassess inventory for underperforming categories.
 
 5. Consumer Purchasing Behavior
 Regular fat content products account for 65% of total sales, while low-fat options make up 35% of the total.
+
 ![p5](https://github.com/user-attachments/assets/31235149-a899-49f4-90e6-0f2962a3e301)
 
 Recommendation: Expand the range of low-fat, health-conscious products to cater to changing consumer preferences and increase overall market appeal.
