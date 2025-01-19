@@ -1,5 +1,5 @@
 
-# Blinkit Sales Analysis Dashboard
+# Blinkit E-commerce Sales Analysis & RFO Optimization
 
 ## Company Introduction
 **Blinkit** is India's last-minute grocery and convenience app, delivering essential products to customers quickly and efficiently. Blinkit focuses on providing a seamless shopping experience across various product categories, such as fruits, snacks, household items, frozen foods, and more.
